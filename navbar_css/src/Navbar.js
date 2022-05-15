@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <>
       <header className="header">
-        <div className="logotype">LOGO</div>
+        <div className="logotype">neetnet.io</div>
         <input type="checkbox" className="menu-btn" id="menu-btn" />
         <label class="menu-icon" for="menu-btn">
           <span className="nav-icon"></span>
